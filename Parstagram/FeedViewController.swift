@@ -118,9 +118,7 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
             let imageFile = post["image"] as! PFFileObject
             let urlString = imageFile.url!
             let url = URL(string: urlString)!
-            
-            cell.photoView.af_setImage(withURL: url)
-            
+                        
             return cell
         } else if indexPath.row <= comments.count {
             let cell = tableView.dequeueReusableCell(withIdentifier: "CommentCell") as! CommentCell
