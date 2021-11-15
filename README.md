@@ -4,10 +4,14 @@ Original App Design Project
 # Depression Brook (not official name)
 
 ## Table of Contents
+0. [Gifs of Progress](#Progress)
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
+4. [Schema](#Schema)
+
+## Progress
+[]https://submissions.us-east-1.linodeobjects.com/ios_university/uD3RIw5v.gif
 
 ## Overview
 ### Description
