@@ -11,7 +11,7 @@ Original App Design Project
 4. [Schema](#Schema)
 
 ## Progress
-[]https://submissions.us-east-1.linodeobjects.com/ios_university/uD3RIw5v.gif
+![](https://submissions.us-east-1.linodeobjects.com/ios_university/uD3RIw5v.gif)
 
 ## Overview
 ### Description
