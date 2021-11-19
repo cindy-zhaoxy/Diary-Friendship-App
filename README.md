@@ -11,6 +11,7 @@ Original App Design Project
 4. [Schema](#Schema)
 
 ## Progress
+![](https://i.imgur.com/DngpOPt.gif)
 ![](https://i.imgur.com/WfxKdiR.gif)
 
 ## Overview
