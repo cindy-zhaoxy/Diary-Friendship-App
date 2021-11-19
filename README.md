@@ -12,7 +12,6 @@ Original App Design Project
 
 ## Progress
 ![](https://i.imgur.com/DngpOPt.gif)
-![](https://i.imgur.com/WfxKdiR.gif)
 
 ## Overview
 ### Description
