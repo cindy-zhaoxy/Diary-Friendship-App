@@ -37,7 +37,7 @@ Allows individuals at Stony Brook to write posts about their day and interests l
 - [x] User can view comments on a post.
 - [x] User can add a new comment.
 - [] User can add a profile picture.
-- [] Profile pictures are shown for posts and comments.
+- [x] Profile pictures are shown for posts and comments.
 ----
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] User can sign up to create a new account.
@@ -47,7 +47,7 @@ Allows individuals at Stony Brook to write posts about their day and interests l
 ----
 (Will update and add more stories in detail)
 - [] User can mark posts as public or private
-- [] User can see all messages
+- [x] User can see all messages
 - [] User can message other users
 - [] User can view profile picture in chat
 - [] Using hashtags such as #meetup, #rant, #highlights, #whatididtoday to filter through posts
