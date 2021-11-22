@@ -11,10 +11,8 @@ Original App Design Project
 4. [Schema](#Schema)
 
 ## Progress
-Sprint 2
+- **Sprint 2**
 ![](https://i.imgur.com/DngpOPt.gif)
-Sprint 1
-![](https://i.imgur.com/WfxKdiR.gif)
 
 ## Overview
 ### Description
