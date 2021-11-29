@@ -46,9 +46,11 @@ Allows individuals at Stony Brook to write posts about their day and interests l
 - [x] User can view the last 20 posts.
 ----
 (Will update and add more stories in detail)
-- [] User can mark posts as public or private
 - [x] User can view a profile page
 - [x] User can view list of messages
+- [x] User can view a settings page
+- [x] User can update username, password, email, and profile picture
+- [] User can mark posts as public or private
 - [] User can message other users
 - [] User can view profile picture in chat
 - [] Using hashtags such as #meetup, #rant, #highlights, #whatididtoday to filter through posts
