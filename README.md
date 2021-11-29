@@ -13,7 +13,7 @@ Original App Design Project
 ## Progress
 
 - **Sprint 3**
-![](https://i.imgur.com/XWauoSV.gif)
+![](https://i.imgur.com/MlXxies.gif)
 
 - **Sprint 2**
 ![](https://i.imgur.com/DngpOPt.gif)
