@@ -206,7 +206,7 @@ Allows individuals at Stony Brook to write posts about their day and interests l
     - (Read/GET) Query title, author, and text for Threads with the highest likes.
     - (Read/GET) Query title, author, and text for Threads with the user listed in the savedBy array.
     - (Create/POST) Add a like to a thread.
-    - (Delete) Remove a like from a thread.
+    - (Delete) Remove a like from a thread
 
 - New Thread
     - (Create/POST) Create a Thread with title, hashtags, and text.
