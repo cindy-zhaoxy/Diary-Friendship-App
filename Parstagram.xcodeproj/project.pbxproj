@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		67D0B1BA27543923001E8A81 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D0B1B927543923001E8A81 /* SettingViewController.swift */; };
+		67D0B1BC27544B08001E8A81 /* profileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D0B1BB27544B08001E8A81 /* profileViewController.swift */; };
 		A139B1A778A979D2E62B3D87 /* Pods_ParstagramTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B364AEA60C01313A5BBB0A72 /* Pods_ParstagramTests.framework */; };
 		A63294CE67BCFD68B6903256 /* Pods_Parstagram_ParstagramUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A3EF4D5C5BA693AA814F70F /* Pods_Parstagram_ParstagramUITests.framework */; };
 		B25B9C32A1316188B8F774DE /* Pods_Parstagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B78F92C297FC7B44A845D68 /* Pods_Parstagram.framework */; };
@@ -45,6 +47,8 @@
 		1C1A98D6352546BA9B46413E /* Pods-Parstagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram.release.xcconfig"; path = "Target Support Files/Pods-Parstagram/Pods-Parstagram.release.xcconfig"; sourceTree = "<group>"; };
 		2CFCC2724A14D196214BA790 /* Pods-Parstagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram.debug.xcconfig"; path = "Target Support Files/Pods-Parstagram/Pods-Parstagram.debug.xcconfig"; sourceTree = "<group>"; };
 		4571AD1EAB0DBED2E933876F /* Pods-ParstagramTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParstagramTests.release.xcconfig"; path = "Target Support Files/Pods-ParstagramTests/Pods-ParstagramTests.release.xcconfig"; sourceTree = "<group>"; };
+		67D0B1B927543923001E8A81 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		67D0B1BB27544B08001E8A81 /* profileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profileViewController.swift; sourceTree = "<group>"; };
 		8A3EF4D5C5BA693AA814F70F /* Pods_Parstagram_ParstagramUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parstagram_ParstagramUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B78F92C297FC7B44A845D68 /* Pods_Parstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		99B18714EE65CE9D31DE7128 /* Pods-Parstagram-ParstagramUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram-ParstagramUITests.release.xcconfig"; path = "Target Support Files/Pods-Parstagram-ParstagramUITests/Pods-Parstagram-ParstagramUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -150,6 +154,8 @@
 				CAF71D3E27174BE000899735 /* AppDelegate.swift */,
 				CAF71D4027174BE000899735 /* SceneDelegate.swift */,
 				CAF71D4427174BE000899735 /* Main.storyboard */,
+				67D0B1BB27544B08001E8A81 /* profileViewController.swift */,
+				67D0B1B927543923001E8A81 /* SettingViewController.swift */,
 				CA6B6AC1271A33E10022BD6B /* CommentCell.swift */,
 				CAF71D4727174BE600899735 /* Assets.xcassets */,
 				CAF71D4927174BE600899735 /* LaunchScreen.storyboard */,
@@ -420,7 +426,9 @@
 			files = (
 				CAF71D6F271756BE00899735 /* LoginViewController.swift in Sources */,
 				CAF71D7327175D1B00899735 /* CameraViewController.swift in Sources */,
+				67D0B1BC27544B08001E8A81 /* profileViewController.swift in Sources */,
 				CAF71D3F27174BE000899735 /* AppDelegate.swift in Sources */,
+				67D0B1BA27543923001E8A81 /* SettingViewController.swift in Sources */,
 				CAF71D71271756E900899735 /* FeedViewController.swift in Sources */,
 				CAF71D4127174BE000899735 /* SceneDelegate.swift in Sources */,
 				CAF71D752717676800899735 /* PostCell.swift in Sources */,

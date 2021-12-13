@@ -11,10 +11,6 @@ Original App Design Project
 4. [Schema](#Schema)
 
 ## Progress
-
-- **Sprint 3**
-![](https://i.imgur.com/MlXxies.gif)
-
 - **Sprint 2**
 ![](https://i.imgur.com/DngpOPt.gif)
 
@@ -40,6 +36,7 @@ Allows individuals at Stony Brook to write posts about their day and interests l
 - [x] User can log out.
 - [x] User can view comments on a post.
 - [x] User can add a new comment.
+- [] User can add a profile picture.
 - [x] Profile pictures are shown for posts and comments.
 ----
 - [x] User sees app icon in home screen and styled launch screen.
@@ -49,21 +46,18 @@ Allows individuals at Stony Brook to write posts about their day and interests l
 - [x] User can view the last 20 posts.
 ----
 (Will update and add more stories in detail)
+- [] User can mark posts as public or private
 - [x] User can view a profile page
 - [x] User can view list of messages
-- [x] User can view a settings page
-- [x] User can update username, password, email, and profile picture
-- [x] User can see profile picture in posts and profile
-- [ ] User can mark posts as public or private
-- [ ] User can message other users
-- [ ] User can view profile picture in chat
-- [ ] Using hashtags such as #meetup, #rant, #highlights, #whatididtoday to filter through posts
+- [] User can message other users
+- [] User can view profile picture in chat
+- [] Using hashtags such as #meetup, #rant, #highlights, #whatididtoday to filter through posts
 
 **Optional Nice-to-have Stories**
 
-- [ ] The ability to join groups based on similaries such as year, major or hobbies. 
-- [ ] User can load past photos infinitely.
-- [ ] User can pull to refresh.
+- [] The ability to join groups based on similaries such as year, major or hobbies. 
+- [] User can load past photos infinitely.
+- [] User can pull to refresh.
 
 ### 2. Screen Archetypes
 
@@ -206,7 +200,7 @@ Allows individuals at Stony Brook to write posts about their day and interests l
     - (Read/GET) Query title, author, and text for Threads with the highest likes.
     - (Read/GET) Query title, author, and text for Threads with the user listed in the savedBy array.
     - (Create/POST) Add a like to a thread.
-    - (Delete) Remove a like from a thread
+    - (Delete) Remove a like from a thread.
 
 - New Thread
     - (Create/POST) Create a Thread with title, hashtags, and text.
