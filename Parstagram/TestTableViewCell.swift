@@ -1,20 +1,14 @@
 //
-//  PostCell.swift
+//  TestTableViewCell.swift
 //  Parstagram
 //
-//  Created by Cindy Zhao on 10/13/21.
+//  Created by Cindy Zhao on 12/13/21.
 //
 
 import UIKit
 
-class PostCell: UITableViewCell {
+class TestTableViewCell: UITableViewCell {
 
-    
-    @IBOutlet weak var profilePic: UIImageView!
-    @IBOutlet weak var usernameLabel: UILabel!
-    @IBOutlet weak var captionLabel: UILabel!
-    
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

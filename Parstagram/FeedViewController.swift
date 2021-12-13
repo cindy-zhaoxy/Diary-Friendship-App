@@ -112,6 +112,12 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
             
             let user = post["author"] as! PFUser
             cell.usernameLabel.text = user.username
+            if(user["image"] != nil){
+                let imageFile = user["image"] as! PFFileObject
+                let urlString = imageFile.url!
+                let url = URL(string: urlString)!
+                cell.profilePic.af_setImage(withURL: url)
+            }
             
             cell.captionLabel.text = post["caption"] as! String
             

@@ -13,12 +13,24 @@ class CameraViewController: UIViewController, UIImagePickerControllerDelegate, U
 
     //@IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var postTextField: UITextView!
+    @IBOutlet weak var profilePic: UIImageView!
+    @IBOutlet weak var userName: UILabel!
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
         postTextField.delegate = self
         postTextField.text = "What's on your mind?"
         postTextField.textColor = UIColor.lightGray
+        let user = PFUser.current()!
+        userName.text = user.username
+        
+        if(user["image"] != nil){
+            let imageFile = user["image"] as! PFFileObject
+            let urlString = imageFile.url!
+            let url = URL(string: urlString)!
+            profilePic.af_setImage(withURL: url)
+        }
     }
 
     @IBAction func onSubmitButton(_ sender: Any) {

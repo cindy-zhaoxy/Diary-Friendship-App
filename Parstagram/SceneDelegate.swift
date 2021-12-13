@@ -24,6 +24,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
             let TabBarController = main.instantiateViewController(identifier: "TabBarController")
             window?.rootViewController = TabBarController
         }
+        
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {

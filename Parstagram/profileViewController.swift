@@ -16,6 +16,7 @@ class profileViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         let user = PFUser.current()!
+        profileName.text = user.username
         if(user["image"] != nil){
             let imageFile = user["image"] as! PFFileObject
             let urlString = imageFile.url!
