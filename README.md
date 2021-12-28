@@ -1,7 +1,7 @@
 Original App Design Project
 ===
 
-# Depression Brook (not official name)
+# LET SB FRIENDS
 
 ## Table of Contents
 0. [Gifs of Progress](#Progress)
@@ -9,6 +9,10 @@ Original App Design Project
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
+
+![](https://i.imgur.com/HUSiQYs.gif)
+![](https://i.imgur.com/86g1wzZ.gif)
+![](https://i.imgur.com/2TILNdP.gif)
 
 ## Overview
 ### Description
