@@ -10,11 +10,6 @@ Original App Design Project
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
 
-![](https://i.imgur.com/HUSiQYs.gif)
-![](https://i.imgur.com/86g1wzZ.gif)
-![](https://i.imgur.com/2TILNdP.gif)
-
-
 ## Overview
 ### Description
 Allows individuals at Stony Brook to write posts about their day and interests like a diary, with comments. Mainly geared towards improving the mental health of students. Has a chat function so that students can message one another.
