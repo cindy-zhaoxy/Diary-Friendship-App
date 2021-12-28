@@ -10,9 +10,9 @@ Original App Design Project
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
 
-![](https://i.imgur.com/2TILNdP.gif)
-![](https://i.imgur.com/86g1wzZ.gif)
 ![](https://i.imgur.com/HUSiQYs.gif)
+![](https://i.imgur.com/86g1wzZ.gif)
+![](https://i.imgur.com/2TILNdP.gif)
 
 
 ## Overview
