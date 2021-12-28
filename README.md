@@ -10,10 +10,6 @@ Original App Design Project
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
 
-## Progress
-- **Sprint 2**
-![](https://i.imgur.com/DngpOPt.gif)
-
 ## Overview
 ### Description
 Allows individuals at Stony Brook to write posts about their day and interests like a diary, with comments. Mainly geared towards improving the mental health of students. Has a chat function so that students can message one another.
